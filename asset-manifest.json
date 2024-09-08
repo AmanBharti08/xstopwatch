@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xstopwatch/static/css/main.f855e6bc.css",
+    "main.js": "/xstopwatch/static/js/main.03177f95.js",
+    "static/js/453.bead9516.chunk.js": "/xstopwatch/static/js/453.bead9516.chunk.js",
+    "index.html": "/xstopwatch/index.html",
+    "main.f855e6bc.css.map": "/xstopwatch/static/css/main.f855e6bc.css.map",
+    "main.03177f95.js.map": "/xstopwatch/static/js/main.03177f95.js.map",
+    "453.bead9516.chunk.js.map": "/xstopwatch/static/js/453.bead9516.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.03177f95.js"
+  ]
+}
